@@ -1,0 +1,1 @@
+# This is a weather app. It has made with the help oof HTML, CSS and JavaScript. In the javascript it use with help of fetch API which returns a promise.
